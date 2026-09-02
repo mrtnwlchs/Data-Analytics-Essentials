@@ -25,3 +25,28 @@ Uno de los formatos más comunes para empaquetar e intercambiar datos es el form
 - Excel
 - SQL
 - Tableau
+
+## Funciones y conceptos básicos de Excel
+
+### Formulas básicas de Excel
+
+Hay 2 formas de realizar cálculos en Excel: formulas y funciones.
+
+- Las formulas son expresiones que operan con los valores de una celda o un rango de celdas; las funciones son formulas predefinidas integradas en Excel.
+- Las formulas en Excel empiezan con un signo "=" y se escriben directamente en una celda o en la barra de formulas.
+
+_Ejemplo: =6/2_
+
+#### Referencias de celda en una formula
+
+Se puede usar el valor de otras celdas en las formulas lo que se denomina referencia de celda.
+
+_Ejemplo: =A1+B1_
+
+### Funciones básicas de Excel
+
+- SUM
+- AVERAGE
+- COUNT
+- MAX
+- MIN
