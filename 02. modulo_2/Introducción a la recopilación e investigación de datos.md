@@ -50,3 +50,8 @@ _Ejemplo: =A1+B1_
 - COUNT
 - MAX
 - MIN
+
+#### Importa archivo de datos CSV en Excel
+
+- Iniciar Excel
+- Clic en __Datos > Obtener datos > Desde Archivo > Deste Texto/CSV__
