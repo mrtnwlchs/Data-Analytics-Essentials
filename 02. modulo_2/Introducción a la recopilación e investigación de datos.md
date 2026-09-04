@@ -55,3 +55,35 @@ _Ejemplo: =A1+B1_
 
 - Iniciar Excel
 - Clic en __Datos > Obtener datos > Desde Archivo > Deste Texto/CSV__
+
+## Funciones simples para el análisis de datos
+
+### Observaciones, variables y valores
+
+- Una variable es cualquier cosa que varia de una instancia a otra, se puede medir y cuyo valor se puede manipular o controlar en escenarios teoricos.
+- Los registros de los valores, patrones y ocurrencias en un conjunto de variables son observaciones.
+    - El valor o conjunto de valores de una observación en especifico se denomina punto de datos.
+- Cada observación puede considerarse y representarse como un registro en una base de datos o una fila en una hoja de calculo.
+- La colección de observaciones constituye el conjunto de datos para el análisis.
+
+> Las observaciones suelen tener un proposito y las variables incluidas dependeran de su relevancia para ese proposito.
+
+Ejemplo: Si se pierde una mascota y se le pide a un grupo de personas que ayuden a buscarla, solo un pequeño conjunto de variables (caracteristicas del perro), son relevantes para las observaciones.
+
+- __¿Que tipo de animal es?__ Es un perro.
+- __¿Que tipo de perro?__ Schnauzer
+- __¿De que color es?__ Gris
+- __¿Que tamaño tiene?__ Mediano
+
+#### Conjunto de datos
+
+| Raza | Color | Tamaño |
+|------|-------|--------|
+| Caniche | blanco | grande |
+| schnauzer | gris | mediano |
+| Yorkie | marron-negro | 3 |
+| Mezcla de perro | negro | 30 |
+
+- Las variables son las caracteristicas (raza, color, tamaño). Todas las caracteristicas son variables porque cada una puede tener varios valores.
+- A medida que las personas buscan al perro, se agregan puntos de datos para cada observación.
+- Las observaciones que no cumplan con los criterios requeridos se descartaran.
