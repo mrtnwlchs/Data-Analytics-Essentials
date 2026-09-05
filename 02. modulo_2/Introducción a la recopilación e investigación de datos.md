@@ -60,7 +60,9 @@ _Ejemplo: =A1+B1_
 
 ### Observaciones, variables y valores
 
-- Una variable es cualquier cosa que varia de una instancia a otra, se puede medir y cuyo valor se puede manipular o controlar en escenarios teoricos.
+Al realizar cualquier tipo de experimento o análisis de datos, es fundamental definir las caracteristicas clave que se deben medir u observar.
+
+- Una variable se puede medir y su valor se puede manipular o controlar en escenarios teoricos.
 - Los registros de los valores, patrones y ocurrencias en un conjunto de variables son observaciones.
     - El valor o conjunto de valores de una observación en especifico se denomina punto de datos.
 - Cada observación puede considerarse y representarse como un registro en una base de datos o una fila en una hoja de calculo.
@@ -87,3 +89,13 @@ Ejemplo: Si se pierde una mascota y se le pide a un grupo de personas que ayuden
 - Las variables son las caracteristicas (raza, color, tamaño). Todas las caracteristicas son variables porque cada una puede tener varios valores.
 - A medida que las personas buscan al perro, se agregan puntos de datos para cada observación.
 - Las observaciones que no cumplan con los criterios requeridos se descartaran.
+
+
+### Tipos de variables
+
+#### Categorica
+
+Indican membresia a un grupo determinado.
+
+- __Nominales:__ Constan de 2 o mas categorias cuyo valor se asigna en funcion de la identidad del objeto. Algunos ejemplos son, sexo, color de ojos o tipo de animal.
+- __Ordinales:__ Variables compuestas por 2 o mas categorias en las que el orden es importante en el valor. Algunos ejemplos son, el rango de clases de los estudiantes (1ro, 2do, 3ro) o las escalas de las encuestas de satisfaccion.
